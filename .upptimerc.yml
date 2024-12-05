@@ -4,7 +4,7 @@ repo: bufferheadcom-monitor # The name of this repository
 
 sites:
   - name: LegendHosting
-    url: https://gitpoddemos-votingapp-v3e7zwbf17f.ws-us117.gitpod.io/
+    url: https://gitpoddemos-votingapp-v3e7zwbf17f.ws-us117.gitpod.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
