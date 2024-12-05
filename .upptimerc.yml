@@ -1,16 +1,15 @@
 # Change these first
-owner: bufferhead-code # Your GitHub organization or username, where this repository lives
+owner: ArshevinCreations # Your GitHub organization or username, where this repository lives
 repo: bufferheadcom-monitor # The name of this repository
 
 sites:
-  - name: Bufferhead
-    url: https://bufferhead.com
+  - name: LegendHosting
+    url: https://gitpoddemos-votingapp-v3e7zwbf17f.ws-us117.gitpod.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.bufferhead.com
-  name: Bufferhead Status
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name
+  baseUrl : bufferheadcom-monitor
   introTitle: "This is a status page for all Bufferhead projects."
   introMessage: This is a status page for all Bufferhead projects. 
   navbar:
